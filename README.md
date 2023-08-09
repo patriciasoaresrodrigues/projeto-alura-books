@@ -14,4 +14,4 @@ Este projeto foi desenvolvido nos cursos da formação ["A partir do zero: HTML 
 
 - [@patriciasoaresrodrigues](https://github.com/patriciasoaresrodrigues)
 
-![Alura](https://media.licdn.com/dms/image/D4D16AQENxscEj2uESQ/profile-displaybackgroundimage-shrink_200_800/0/1666029706368?e=2147483647&v=beta&t=3O7etra96lLiAxv_WywDwDB7RfXXhw2EGDuVGMgYqn0)
+![Alura](https://raw.githubusercontent.com/patriciasoaresrodrigues/projeto-alura-books/dev/assets/img/logo-alura.png)
